@@ -6,6 +6,13 @@
 	box-sizing: border-box;
 }
  
+body h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2cm;
+    padding: 20px;
+    text-align: center;
+}
+
 body {
 	background: #FAFAFA;
 	font-family: arial, helvetica, sans-serif;
@@ -19,8 +26,8 @@ body {
 }
  
 .principal {
-	background: #F44336;
-	border-top: 20px solid #D32F2F;
+	background:   #0E9299;
+	border-top: 20px solid #085559;
 	color: #fff;
 	padding: 50px 0;
 	width: 100%;
@@ -45,8 +52,8 @@ body {
  
 .principal .formulario .boton {
     margin-top: 3%;
-	background: #3498DB ;
-	border: 1px solid #1F618D ;
+	background: #11B7BF ;
+	border: 1px solid #085559 ;
 	color: #fff;
 	display: inline-block;
 	font-size: 16px;
